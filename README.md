@@ -1,4 +1,4 @@
-# Building interfaces from the future
+# Interface Animation from the Future
 
 The slides for my talk at [FOSDEM 2018](https://fosdem.org/2018/schedule/event/osd_interface_animation_from_the_future)
 
